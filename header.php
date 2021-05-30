@@ -148,15 +148,13 @@
                   <li> <a href=""> Outros </a></li>
                 </ul> -->
               </li>
-							<li> <a href="relatorio.php"> Relatório </a> </li>
 							<li> <a href="opcoes.php"> Recomendados </a> </li>
-							<!-- <li> <a href=""> Outros </a>
+						 <li> <a href=""> Relatório </a>
                 <ul>
-                  <li> <a href=""> Aromatizador </a> </li> 
-                  <li> <a href=""> Sais de Banho </a> </li>
-                  <li> <a href=""> Spray de lençol </a> </li>
+                  <li> <a href="relatorioMes.php"> Mensal </a> </li> 
+                  <li> <a href=""> Anual </a> </li>
                 </ul>
-              </li> -->
+              </li> 
 						</ul>
 					</nav>
 				</td>

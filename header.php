@@ -124,19 +124,19 @@
 		<center>
 		<table width="100%" id="cabec">
 				<td width="10%">
-					<img src = "logo/logo.png" width="75px">
+					<img src = "logo.png" width="75px">
 				</td>
         <td width="10%">
-          <h2> <b> <img src = "logo/logo2.png" width="230px"> </b> </h2>
+          <h2> <b> <img src = "logo2.png" width="230px"> </b> </h2>
         </td>
         <td>
-          <a href="principal.php"> <img src="icone/home.png"> </a>
+          <a href="principal.php"> <img src="home.png"> </a>
         </td>
         <td width="2%"></td>
 				<td width="47%">
 				<div class="input-group mb-3">
 					<input type="text" size="60" placeholder="Busque aqui" class="form-control">  
-  					<span class="input-group-text" id="Pesq"> <img src = "Icone/pesq.png"> </span>
+  					<span class="input-group-text" id="Pesq"> <img src = "pesq.png"> </span>
   				</div>  
 					<nav class = "menu">
 						<ul>
@@ -168,9 +168,9 @@
 
           $registro = mysqli_num_rows($QUERY);
           if ($registro == 1){
-            echo "<img src='Icone/login.png' id='ver'>"; }
+            echo "<img src='login.png' id='ver'>"; }
           else {
-            echo "<img src='Icone/login.png' onclick='clique()' id='ver'>"; }
+            echo "<img src='login.png' onclick='clique()' id='ver'>"; }
           ?>
 				</td>
 				<td width="8%">

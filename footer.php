@@ -14,9 +14,9 @@
 					<td width=33%" colspan=1> <b> <center> ZenKlub </center> </b> </td>
 				</tr> -->
 				<tr> 
-					<td width=33%" colspan=1> <b> <center> <a href="https://eurekka.me/" target="_blank"> <img src="logo/Eurekka.png" width="150px"> </a> </center> </b> </td>
-					<td width=33%" colspan=1> <b> <center> <a href="https://universidade.feedback.house/" target="_blank"> <img src="logo/feedback.png" width="150px"> </a> </center> </b> </td>
-					<td width=33%" colspan=1> <b> <center> <a href="https://zenklub.com.br/busca/?utm_source=google&gclid=CjwKCAjwzMeFBhBwEiwAzwS8zGgOfB9MdU6p_55mcUG-77YZhOSqVHXUA2ZX2awO7ti-EVrpbMVlBRoCKPUQAvD_BwE" target="_blank"> <img src="logo/ZenKlub.png" width="150px"> </a> </center> </b> </td>
+					<td width=33%" colspan=1> <b> <center> <a href="https://eurekka.me/" target="_blank"> <img src="Eurekka.png" width="150px"> </a> </center> </b> </td>
+					<td width=33%" colspan=1> <b> <center> <a href="https://universidade.feedback.house/" target="_blank"> <img src="feedback.png" width="150px"> </a> </center> </b> </td>
+					<td width=33%" colspan=1> <b> <center> <a href="https://zenklub.com.br/busca/?utm_source=google&gclid=CjwKCAjwzMeFBhBwEiwAzwS8zGgOfB9MdU6p_55mcUG-77YZhOSqVHXUA2ZX2awO7ti-EVrpbMVlBRoCKPUQAvD_BwE" target="_blank"> <img src="ZenKlub.png" width="150px"> </a> </center> </b> </td>
 				</tr>
 			</table>
 	</body>

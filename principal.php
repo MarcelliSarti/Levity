@@ -32,10 +32,10 @@
                 <td> <center> MUITO MAL <br> PRECISO DE AJUDA </center> </td>
             </tr>
             <tr>
-                <td> <center> <img src="logo/feliz.png" onclick="bem()" id="ver1"> </center> </td>
-                <td> <center> <a href="opcoes.php"> <img src="logo/maisoumenos.png"  id="ver1"> </a> </center> </td>
-                <td> <center> <a href="opcoes.php"> <img src="logo/triste.png" onclick="outros()" id="ver1"> </a> </center> </td>
-                <td> <center> <a href="opcoes.php"> <img src="logo/muitomal.png" width="135px" onclick="outros()" id="ver1"> </a> </center> </td>
+                <td> <center> <img src="feliz.png" onclick="bem()" id="ver1"> </center> </td>
+                <td> <center> <a href="opcoes.php"> <img src="maisoumenos.png"  id="ver1"> </a> </center> </td>
+                <td> <center> <a href="opcoes.php"> <img src="triste.png" onclick="outros()" id="ver1"> </a> </center> </td>
+                <td> <center> <a href="opcoes.php"> <img src="muitomal.png" width="135px" onclick="outros()" id="ver1"> </a> </center> </td>
             </tr>
           </table>
 	       	

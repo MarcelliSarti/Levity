@@ -2,7 +2,7 @@
 	<head> 
 		<title> TEAM 1 </title>
 		<meta charset="utf-8">
-    <link href="css.css" rel="stylesheet">
+    <link href="css/css.css" rel="stylesheet">
 
     	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -124,19 +124,19 @@
 		<center>
 		<table width="100%" id="cabec">
 				<td width="10%">
-					<img src = "logo.png" width="75px">
+					<img src = "img/logo.png" width="75px">
 				</td>
         <td width="10%">
-          <h2> <b> <img src = "logo2.png" width="230px"> </b> </h2>
+          <h2> <b> <img src = "img/logo2.png" width="230px"> </b> </h2>
         </td>
         <td>
-          <a href="principal.php"> <img src="home.png"> </a>
+          <a href="principal.php"> <img src="img/home.png"> </a>
         </td>
         <td width="2%"></td>
 				<td width="47%">
 				<div class="input-group mb-3">
 					<input type="text" size="60" placeholder="Busque aqui" class="form-control">  
-  					<span class="input-group-text" id="Pesq"> <img src = "pesq.png"> </span>
+  					<span class="input-group-text" id="Pesq"> <img src = "img/pesq.png"> </span>
   				</div>  
 					<nav class = "menu">
 						<ul>
@@ -168,9 +168,9 @@
 
           $registro = mysqli_num_rows($QUERY);
           if ($registro == 1){
-            echo "<img src='login.png' id='ver'>"; }
+            echo "<img src='img/login.png' id='ver'>"; }
           else {
-            echo "<img src='login.png' onclick='clique()' id='ver'>"; }
+            echo "<img src='img/login.png' onclick='clique()' id='ver'>"; }
           ?>
 				</td>
 				<td width="8%">
@@ -213,8 +213,8 @@
       								<div class="input-group mb-3">
 										    <input type="password" id="senha1" class="form-control" name="SENHA">  
   										  <span class="input-group-text" id="Pesq"> 
-  											 <img src="icone/ver.png"    width="25px" height="25px" onclick='cliqueSenha1()' id="ver1"> 
-      									 <img src="icone/NaoVer.png" width="25px" height="25px" onclick='cliqueSenha1()' id="naoVer1"> 
+  											 <img src="img/ver.png"    width="25px" height="25px" onclick='cliqueSenha1()' id="ver1"> 
+      									 <img src="img/NaoVer.png" width="25px" height="25px" onclick='cliqueSenha1()' id="naoVer1"> 
   										  </span>
   									  </div>
       							</td>      								
@@ -278,8 +278,8 @@
       							<div class="input-group mb-3">
 									<input type="password" id="senha2" class="form-control" required name="SENHA_FUNC1">  
   										<span class="input-group-text" id="Pesq"> 
-  											<img src="icone/ver.png"    width="25px" height="25px" onclick='cliqueSenha2()' id="ver2"> 
-      									<img src="icone/NaoVer.png" width="25px" height="25px" onclick='cliqueSenha2()' id="naoVer2"> 
+  											<img src="img/ver.png"    width="25px" height="25px" onclick='cliqueSenha2()' id="ver2"> 
+      									<img src="img/NaoVer.png" width="25px" height="25px" onclick='cliqueSenha2()' id="naoVer2"> 
   										</span>
   								</div>
   							</td>
@@ -287,8 +287,8 @@
       							<div class="input-group mb-3">
 									<input type="password" id="senha3" class="form-control" required name="SENHA_FUNC2">  
   										<span class="input-group-text" id="Pesq"> 
-  											<img src="icone/ver.png"    width="25px" height="25px" onclick='cliqueSenha3()' id="ver3"> 
-      									<img src="icone/NaoVer.png" width="25px" height="25px" onclick='cliqueSenha3()' id="naoVer3"> 
+  											<img src="img/ver.png"    width="25px" height="25px" onclick='cliqueSenha3()' id="ver3"> 
+      									<img src="img/NaoVer.png" width="25px" height="25px" onclick='cliqueSenha3()' id="naoVer3"> 
   										</span>
   								</div>
   							</td>     

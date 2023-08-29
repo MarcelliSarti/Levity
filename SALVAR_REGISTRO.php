@@ -95,23 +95,23 @@
 		echo "Erro ao inserir. <BR>. "; }
 		///echo (mysqli_error($connection)); }
 		else {
-		echo "<h2> <font color = #1AC8ED> <b> <img src = 'logo2.png'> </b>  <br> <br>";
+		echo "<h2> <font color = #1AC8ED> <b> <img src = 'img/logo2.png'> </b>  <br> <br>";
 
 		if ($RESULTADO <= 20) {
 			echo "Nenhum indício da Burnout. <BR> <BR>
-			<img src='feliz.png'>";
+			<img src='img/feliz.png'>";
 		} elseif (($RESULTADO > 20) and ($RESULTADO <= 40)) {
 			echo "Possibilidade de desenvolver Burnout, procure trabalhar as recomendações de prevenção da Síndrome. <BR> <BR>
-			<img src='maisoumenos.png' <BR> ";
+			<img src='img/maisoumenos.png' <BR> ";
 		} elseif (($RESULTADO > 41) and ($RESULTADO <= 60)) {
 			echo "Fase inicial da Burnout, procure ajuda profissional para debelar os sintomas e garantir, assim,a qualidade no seu desempenho profissional e a sua qualidade de vida. <BR> <BR>
-			<img src='triste.png'> <BR>";
+			<img src='img/triste.png'> <BR>";
 		} elseif (($RESULTADO > 61) and ($RESULTADO <= 80)) {
 			echo "A Burnout começa a se instalar. Procure ajuda profissional para prevenir o agravamento dos sintomas. <BR> <BR>
-			<img src='triste.png'> <BR>";
+			<img src='img/triste.png'> <BR>";
 		} elseif (($RESULTADO > 81) and ($RESULTADO <= 100)) {
 			echo "Você pode estar em uma fase considerável da Burnout, mas esse quadro é perfeitamente reversível. Procure o profissional competente de sua confiança e inicie o quanto antes o tratamento. <BR> <BR>
-			<img src='MUITOMAL.png'> <BR>";
+			<img src='img/MUITOMAL.png'> <BR>";
 		}
 
 		echo"</h2> <BR>";

@@ -2,7 +2,7 @@
 	<head> 
 		<title> TEAM 1 </title>
 		<meta charset="utf-8">
-    <link href="css.css" rel="stylesheet">
+    <link href="css/css.css" rel="stylesheet">
 
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -24,7 +24,7 @@
       </tr> 
       <tr> 
         <td width="50%"> <a href="https://atriayoga.com/" target="_blank"> <img src="https://atriayoga.com/wp-content/themes/atriayoga/img/atriayoga-logo.svg"> </a> </td> 
-        <td width="50%"> <a href="https://zenwellness.com.br/blog/meditacao-guiada-para-relaxar/" target="_blank"> <img src="logo/zen.png" width="190px"> </a> </td>
+        <td width="50%"> <a href="https://zenwellness.com.br/blog/meditacao-guiada-para-relaxar/" target="_blank"> <img src="img/zen.png" width="190px"> </a> </td>
       </tr> 
     </table> <br> <br>
     <table width="50%">
@@ -34,14 +34,14 @@
         <td width="50%"> <b> <font color=#1AC8ED> Alongamento </b> </td>
       </tr> 
       <tr> 
-        <td width="50%"> <a href="https://treinofuncionalonline.com.br/?gclid=CjwKCAjwzMeFBhBwEiwAzwS8zLXWv76P42ymFe6e9mBjRhhOamTrJbIE4OUWd7XSEJAY5-PYYXnjKBoChtgQAvD_BwE" target="_blank"> <img src="logo/academia.png" width="200px"> </a> </td> 
-        <td width="50%"> <a href="https://www.exercicioemcasa.com.br/treinos/alongamento/" target="_blank"> <img src="logo/alongamento.jpg" width="100px"> </a> </td>
+        <td width="50%"> <a href="https://treinofuncionalonline.com.br/?gclid=CjwKCAjwzMeFBhBwEiwAzwS8zLXWv76P42ymFe6e9mBjRhhOamTrJbIE4OUWd7XSEJAY5-PYYXnjKBoChtgQAvD_BwE" target="_blank"> <img src="img/academia.png" width="200px"> </a> </td> 
+        <td width="50%"> <a href="https://www.exercicioemcasa.com.br/treinos/alongamento/" target="_blank"> <img src="img/alongamento.jpg" width="100px"> </a> </td>
       </tr>
     </table> <br> <br>
     <table width="50%"> 
       <tr> <td> <b> Caso você esteja precisando de atendimento psicológico </b> </td> </tr>
       <tr>
-        <td> <center> <a href="https://api.whatsapp.com/send?phone=5553981040202&text=SOS%20Brasil" target="blank"> <img src="logo/sos.png" width="170px"> </a> </center> </td>
+        <td> <center> <a href="https://api.whatsapp.com/send?phone=5553981040202&text=SOS%20Brasil" target="blank"> <img src="img/sos.png" width="170px"> </a> </center> </td>
       </tr>
     </table>  <br> <br>
     </CENTER>

@@ -2,7 +2,7 @@
 	<head> 
 		<title> TEAM 1 </title>
 		<meta charset="utf-8">
-    <link href="css.css" rel="stylesheet">
+    <link href="css/css.css" rel="stylesheet">
 
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -32,10 +32,10 @@
                 <td> <center> MUITO MAL <br> PRECISO DE AJUDA </center> </td>
             </tr>
             <tr>
-                <td> <center> <img src="feliz.png" onclick="bem()" id="ver1"> </center> </td>
-                <td> <center> <a href="opcoes.php"> <img src="maisoumenos.png"  id="ver1"> </a> </center> </td>
-                <td> <center> <a href="opcoes.php"> <img src="triste.png" onclick="outros()" id="ver1"> </a> </center> </td>
-                <td> <center> <a href="opcoes.php"> <img src="muitomal.png" width="135px" onclick="outros()" id="ver1"> </a> </center> </td>
+                <td> <center> <img src="img/feliz.png" onclick="bem()" id="ver1"> </center> </td>
+                <td> <center> <a href="opcoes.php"> <img src="img/maisoumenos.png"  id="ver1"> </a> </center> </td>
+                <td> <center> <a href="opcoes.php"> <img src="img/triste.png" onclick="outros()" id="ver1"> </a> </center> </td>
+                <td> <center> <a href="opcoes.php"> <img src="img/muitomal.png" width="135px" onclick="outros()" id="ver1"> </a> </center> </td>
             </tr>
           </table>
 	       	
